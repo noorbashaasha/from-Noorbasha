@@ -9,3 +9,8 @@ This restaurant offers various types of **biryani** and i was completely impress
 1.Biryani<br>
 2.Manchuria<br>
 3.Noodles<br>
+
+###### Places to visit near restaurant
+*PVP<br>
+*Santholic church<br>
+*National bank<br>
