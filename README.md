@@ -14,3 +14,4 @@ This restaurant offers various types of **biryani** and i was completely impress
 *PVP<br>
 *Santholic church<br>
 *National bank<br>
+[page](MyMedia.md)
