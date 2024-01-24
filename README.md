@@ -18,8 +18,4 @@ This restaurant offers various types of **biryani** and i was completely impress
 
 ---
 
-###### quotes
->The only way to do great work is to love what you do.<br>
--*Steve Jobs*<br>
->In three words I can sum up everything I've learned about life: it goes on.<br>
--*Robert Frost*<br>
+
