@@ -19,3 +19,13 @@ A song is a musical composition performed by singing. This is often done at dist
 -*Steve Jobs*<br>
 >In three words I can sum up everything I've learned about life: it goes on.<br>
 -*Robert Frost*<br>
+
+---
+
+###### Code Fencing
+This sample SQL code displays a record if all the conditions separated by AND are true.
+```
+SELECT DISTINCT column1, column2, ...
+FROM table_name;
+```
+<https://code.pieces.app/collections/sql>
